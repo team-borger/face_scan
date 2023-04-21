@@ -2,6 +2,8 @@ import cv2
 import stow
 import typing
 import numpy as np
+
+import torch
 import onnxruntime as ort
 
 class FaceNet:

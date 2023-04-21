@@ -11,9 +11,10 @@ numpy = "*"
 tqdm = "*"
 onnxruntime = "*"
 tf2onnx = "*"
-tensorflow = "==2.*"
+tensorflow = "*"
 boto3 = "*"
 onnxruntime-gpu = "*"
+torch = "*"
 
 [dev-packages]
 
